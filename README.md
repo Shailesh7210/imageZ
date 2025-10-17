@@ -1,5 +1,7 @@
 # Text-to-Image Generator
 
+WEBSITE DEMO - https://imagez-client-x4pg.onrender.com/ 
+
 A **full-stack web application** that generates images from text prompts using modern web technologies. Built with **React, TailwindCSS, Node.js, Express, and MongoDB**. Includes user authentication, payment integration, and smooth UI animations.
 
 ---
